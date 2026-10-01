@@ -1,1 +1,7 @@
 .venv
+/dataset/IMDB Dataset.csv
+/dataset/chest_xray
+/dataset/chest_xray_data
+/dataset/intel_data
+/dataset/Ethiopian_Currency
+/sample_artificial_neuron (fuse)
